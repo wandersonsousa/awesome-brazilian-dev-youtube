@@ -3,7 +3,7 @@
 
 ## Conteúdos:
 
-- [Cursos Grátis - Teoria da Computação](#computationTheory)
+- [Cursos Grátis - Teoria da Computação](#Cursos Grátis - Teoria da Computação)
 
 
 ## Cursos Grátis - Teoria da Computação
